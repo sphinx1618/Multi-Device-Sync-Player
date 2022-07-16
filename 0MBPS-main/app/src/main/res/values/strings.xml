@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OMBPS</string>
+    <string name="host_the_party">Host the Party</string>
+    <string name="join_the_party">Join the party</string>
+</resources>
